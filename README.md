@@ -5,6 +5,6 @@ EZDeploy helps students and beginner developers deploy their static React websit
 ## 🌐 Live on EC2 in 3 steps
 
 ```bash
-git clone https://github.com/<your-username>/ezdeploy.git
+git clone https://github.com/Lokendram10/demo--ez.git
 cd ezdeploy
 bash ezdeploy.sh
